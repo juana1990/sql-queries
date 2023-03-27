@@ -1,7 +1,5 @@
--- create table with columns tea_type, price and ammount
-create table teas
-(tea_type  varchar (50),
-price int,
-ammount int
+CREATE TABLE dogs (
+name VARCHAR (100),
+breed VARCHAR (100),
+age INT
 );
-
