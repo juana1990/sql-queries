@@ -1,7 +1,7 @@
--- To drop a database:
--- DROP DATABASE <database-name>;
-DROP TABLE cats;
+-- To drop a table:
 
--- To use a database:
--- USE <database-name>;
-USE pet_shop;
+-- DROP TABLE <table-name>;
+
+-- To specifically drop the cats table:
+
+DROP TABLE cats;
